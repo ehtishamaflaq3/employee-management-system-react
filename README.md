@@ -4,7 +4,6 @@ A modern Employee Management System built with **React.js**, **Context API**, **
 
 This project provides a role-based dashboard where an administrator can assign tasks to employees and employees can manage their assigned tasks with real-time UI updates.
 
----
 
 # Features
 
@@ -15,7 +14,6 @@ This project provides a role-based dashboard where an administrator can assign t
 - Role Based Authentication
 - Persistent Login using Local Storage
 
----
 
 ## Admin Dashboard
 
@@ -25,7 +23,6 @@ This project provides a role-based dashboard where an administrator can assign t
 - Dynamic Dashboard Updates
 - Logout
 
----
 
 ## Employee Dashboard
 
@@ -36,7 +33,6 @@ This project provides a role-based dashboard where an administrator can assign t
 - Live Task Status Updates
 - Logout
 
----
 
 ## Task Management
 
@@ -46,10 +42,8 @@ Each task supports four states:
 -  Active
 -  Completed
 -  Failed
-
 Task counts update automatically.
 
----
 
 ## State Management
 
@@ -57,7 +51,6 @@ Task counts update automatically.
 - useState
 - useEffect
 
----
 
 ## Data Storage
 
@@ -71,7 +64,6 @@ Future versions will use
 - Express
 - Node.js
 
----
 
 # Built With
 
@@ -82,18 +74,12 @@ Future versions will use
 - Context API
 - Local Storage
 
----
-
-# Folder Structure
-
-
---- 
 
 
 # Screenshots
 
 
----
+
 
 # Future Improvements
 
@@ -108,7 +94,6 @@ Future versions will use
 - Dashboard Analytics
 - Deployment
 
----
 
 # Learning Outcomes
 
@@ -124,21 +109,13 @@ During this project I learned:
 - CRUD Operations
 - React Project Structure
 
----
 
 # Contributing
 
 Contributions are welcome.
-
 Fork the repository and submit a Pull Request.
 
----
 
 # Author
 
 **Ehtisham Aflaq**
-
-Software Engineering Student
-React Developer
-
-Future MERN Stack Developer 🚀
