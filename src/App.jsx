@@ -43,9 +43,9 @@ const App = () => {
     }
   };
   // this rerender on page reload
-  // useEffect(() => {
-  //   setLocalStorage();
-  // }, []);
+  useEffect(() => {
+    setLocalStorage();
+  }, []);
   return (
     <div className="bg-gray-800 h-265 w-full">
       {!user ? <Login handlelogin={handlelogin} /> : ""}
