@@ -78,9 +78,18 @@ Future versions will use
 
 # Screenshots
 
+# Login Page
+<img width="1902" height="867" alt="image" src="https://github.com/user-attachments/assets/a7376d16-3c2c-436f-a42b-a6755be42cc6" />
+
+# Admin Dashboard
+<img width="1901" height="828" alt="image" src="https://github.com/user-attachments/assets/9206988a-2253-4e73-8b4a-2cefeb4401f6" />
+<img width="1897" height="442" alt="image" src="https://github.com/user-attachments/assets/a7299101-4bfc-48ce-8fa0-74e14bf3636a" />
+
+# Employee Dasboard
+<img width="1901" height="857" alt="image" src="https://github.com/user-attachments/assets/bb5fd661-317a-4c8c-9b44-acc4d28b5692" />
 
 
-## Check Now
+# Check Now
 
 <p align="center">
   <a href="https://employee-management-system-eh.netlify.app/">
