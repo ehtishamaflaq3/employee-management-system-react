@@ -7,6 +7,7 @@ This project provides a role-based dashboard where an administrator can assign t
 
 # Features
 
+
 ## Authentication
 
 - Admin Login
@@ -129,7 +130,7 @@ During this project I learned:
 
 # Contributing
 
-Contributions are welcome.
+Contributions are welcome
 Fork the repository and submit a Pull Request.
 
 
