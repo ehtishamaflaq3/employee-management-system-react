@@ -94,7 +94,6 @@ Future versions will use
   </a>
 </p>
 
-
 # Future Improvements
 
 - Node.js Backend
