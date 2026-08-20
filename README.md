@@ -13,7 +13,6 @@ This project provides a role-based dashboard where an administrator can assign t
 - Role Based Authentication
 - Persistent Login using Local Storage
 
-
 ## Admin Dashboard
 
 - Assign New Tasks
@@ -31,7 +30,6 @@ This project provides a role-based dashboard where an administrator can assign t
 - Mark Tasks as Failed
 - Live Task Status Updates
 - Logout
-
 
 ## Task Management
 
