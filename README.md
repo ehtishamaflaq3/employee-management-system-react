@@ -4,9 +4,7 @@ A modern Employee Management System built with **React.js**, **Context API**, **
 
 This project provides a role-based dashboard where an administrator can assign tasks to employees and employees can manage their assigned tasks with real-time UI updates.
 
-
 # Features
-
 
 ## Authentication
 
