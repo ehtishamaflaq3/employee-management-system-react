@@ -131,7 +131,6 @@ During this project I learned:
 Contributions are welcome
 Fork the repository and submit a Pull Request.
 
-
 # Author
 
 **Ehtisham Aflaq**
