@@ -130,4 +130,4 @@ Fork the repository and submit a Pull Request.
 
 # Author
 
-**Ehtisham Aflaq**
+**Ehtisham Aflaq**.
