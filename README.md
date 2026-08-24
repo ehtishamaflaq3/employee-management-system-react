@@ -8,9 +8,9 @@ This project provides a role-based dashboard where an administrator can assign t
 
 ## Authentication
 
-- Admin Login
-- Employee Login
-- Role Based Authentication
+- Admin Login.
+- Employee Login.
+- Role Based Authentication.
 - Persistent Login using Local Storage.
 
 ## Admin Dashboard
