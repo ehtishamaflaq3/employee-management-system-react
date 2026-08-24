@@ -15,10 +15,10 @@ This project provides a role-based dashboard where an administrator can assign t
 
 ## Admin Dashboard
 
-- Assign New Tasks
-- View All Employees
-- Track Task Counts
-- Dynamic Dashboard Updates
+- Assign New Tasks.
+- View All Employees.
+- Track Task Counts.
+- Dynamic Dashboard Updates.
 - Logout.
 
 
