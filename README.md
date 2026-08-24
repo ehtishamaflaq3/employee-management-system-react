@@ -44,9 +44,9 @@ Task counts update automatically.
 
 ## State Management
 
-- React Context API
-- useState
-- useEffect
+- React Context API.
+- useState.
+- useEffect.
 
 
 ## Data Storage
