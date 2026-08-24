@@ -35,10 +35,10 @@ This project provides a role-based dashboard where an administrator can assign t
 
 Each task supports four states:
 
--  New
--  Active
--  Completed
--  Failed
+-  New.
+-  Active.
+-  Completed.
+-  Failed.
 Task counts update automatically.
 
 
