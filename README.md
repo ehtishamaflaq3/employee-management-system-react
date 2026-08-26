@@ -112,7 +112,7 @@ Future versions will use
 
 During this project I learned:
 
-- React Components
+- React Components.
 - Props
 - State Management
 - Context API
