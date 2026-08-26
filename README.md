@@ -120,8 +120,7 @@ During this project I learned:
 - Local Storage
 - Authentication Flow
 - CRUD Operations
-- React Project Structure
-
+- React Project Structure.
 
 # Contributing
 
