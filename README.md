@@ -102,8 +102,8 @@ Future versions will use
 - JWT Authentication
 - Protected Routes
 - Role Based Authorization
-- Search Employees
-- Task Filters
+- Search Employees.
+- Task Filters.
 - Dashboard Analytics.
 - Deployment.
 
