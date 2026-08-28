@@ -24,8 +24,8 @@ This project provides a role-based dashboard where an administrator can assign t
 
 ## Employee Dashboard
 
-- View Assigned Tasks
-- Accept Tasks
+- View Assigned Tasks.
+- Accept Tasks.
 - Mark Tasks as Completed
 - Mark Tasks as Failed
 - Live Task Status Updates
