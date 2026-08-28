@@ -104,8 +104,8 @@ Future versions will use
 - Role Based Authorization
 - Search Employees
 - Task Filters
-- Dashboard Analytics
-- Deployment
+- Dashboard Analytics.
+- Deployment.
 
 
 # Learning Outcomes
