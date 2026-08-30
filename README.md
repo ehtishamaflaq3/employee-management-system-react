@@ -118,8 +118,8 @@ During this project I learned:
 - Context API
 - Conditional Rendering
 - Local Storage
-- Authentication Flow
-- CRUD Operations
+- Authentication Flow.
+- CRUD Operations.
 - React Project Structure.
 
 # Contributing
