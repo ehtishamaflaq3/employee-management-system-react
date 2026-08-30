@@ -57,9 +57,9 @@ Currently data is stored inside
 
 Future versions will use
 
-- MongoDB
-- Express
-- Node.js
+- MongoDB.
+- Express.
+- Node.js.
 
 
 # Built With
