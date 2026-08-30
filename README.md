@@ -116,8 +116,8 @@ During this project I learned:
 - Props
 - State Management
 - Context API
-- Conditional Rendering
-- Local Storage
+- Conditional Rendering.
+- Local Storage.
 - Authentication Flow.
 - CRUD Operations.
 - React Project Structure.
