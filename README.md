@@ -114,8 +114,8 @@ During this project I learned:
 
 - React Components.
 - Props
-- State Management
-- Context API
+- State Management.
+- Context API.
 - Conditional Rendering.
 - Local Storage.
 - Authentication Flow.
