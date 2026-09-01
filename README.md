@@ -29,7 +29,7 @@ This project provides a role-based dashboard where an administrator can assign t
 - Mark Tasks as Completed
 - Mark Tasks as Failed
 - Live Task Status Updates
-- Logout
+- Logout.
 
 ## Task Management
 
