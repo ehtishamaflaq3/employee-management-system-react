@@ -113,7 +113,7 @@ Future versions will use
 During this project I learned:
 
 - React Components.
-- Props
+- Props.
 - State Management.
 - Context API.
 - Conditional Rendering.
