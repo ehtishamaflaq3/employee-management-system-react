@@ -65,8 +65,8 @@ Future versions will use
 # Built With
 
 - React.js.
-- Vite
-- Tailwind CSS
+- Vite.
+- Tailwind CSS.
 - JavaScript (ES6+)
 - Context API.
 - Local Storage.
