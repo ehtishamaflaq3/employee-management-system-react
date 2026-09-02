@@ -100,8 +100,8 @@ Future versions will use
 - Express REST API
 - MongoDB Database
 - JWT Authentication
-- Protected Routes
-- Role Based Authorization
+- Protected Routes.
+- Role Based Authorization.
 - Search Employees.
 - Task Filters.
 - Dashboard Analytics.
