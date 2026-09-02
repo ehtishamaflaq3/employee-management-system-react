@@ -68,7 +68,7 @@ Future versions will use
 - Vite
 - Tailwind CSS
 - JavaScript (ES6+)
-- Context API
+- Context API.
 - Local Storage.
 
 
