@@ -64,7 +64,7 @@ Future versions will use
 
 # Built With
 
-- React.js
+- React.js.
 - Vite
 - Tailwind CSS
 - JavaScript (ES6+)
