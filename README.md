@@ -69,7 +69,7 @@ Future versions will use
 - Tailwind CSS
 - JavaScript (ES6+)
 - Context API
-- Local Storage
+- Local Storage.
 
 
 
