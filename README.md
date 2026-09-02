@@ -96,8 +96,8 @@ Future versions will use
 
 # Future Improvements
 
-- Node.js Backend
-- Express REST API
+- Node.js Backend.
+- Express REST API.
 - MongoDB Database
 - JWT Authentication
 - Protected Routes.
