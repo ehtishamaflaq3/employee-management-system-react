@@ -37,7 +37,7 @@ Each task supports four states:
 
 -  New.
 -  Active.
--  Completed.
+-  Completed
 -  Failed
 Task counts update automatically.
 
