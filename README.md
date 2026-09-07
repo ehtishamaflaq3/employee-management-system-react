@@ -21,7 +21,6 @@ This project provides a role-based dashboard where an administrator can assign t
 - Dynamic Dashboard Updates
 - Logout.
 
-
 ## Employee Dashboard
 
 - View Assigned Tasks.
