@@ -3,8 +3,11 @@ import { Authcontext } from "../../context/Authprovider";
 import { useState,useEffect } from "react";
 
 const AdminDashboard = ({ setUser }) => {
+  
   const { userData, setuserData } = useContext(Authcontext);
+  
   // function for handling form
+  
   const [title, setTitle] = useState("");
   const [date, setDate] = useState("");
   const [assignto, setAssignto] = useState("");
