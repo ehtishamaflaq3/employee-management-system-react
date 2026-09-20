@@ -46,10 +46,12 @@ const App = () => {
       alert("invalid credentials");
     }
   };
+  
   // this rerender on page reload
   useEffect(() => {
     setLocalStorage();
   }, []);
+  
   return (
     <div className="bg-gray-800 h-265 w-full">
       {!user ? <Login handlelogin={handlelogin} /> : ""}
