@@ -4,10 +4,13 @@ import EmployeeDashboard from "./components/Dashboard/EmployeeDashboard";
 import AdminDashboard from "./components/Dashboard/AdminDashboard";
 import { getLocalStorage, setLocalStorage } from "./utils/LocalStorage";
 import { Authcontext } from "./context/Authprovider";
+
 const App = () => {
+  
   // states
   const [user, setUser] = useState(null);
   const [loggedinUserdata, setloggedinUserdata] = useState(null);
+  
   // logged in user logic
   const {userData,setuserData} = useContext(Authcontext);
   useEffect(() => {
@@ -21,6 +24,7 @@ const App = () => {
     }
   }, [userData]);
   ////////////////////////////////////////// functions
+  
   // login all logic
   const handlelogin = (username, password) => {
     if (username == "admin" && password == "123") {
