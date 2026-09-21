@@ -5,7 +5,6 @@ const admin = [
     password: "admin123",
     name: "Muhammad Ali",
     email: "admin@company.com",
-    // role: "admin",
   },
 ];
 const employees = [
