@@ -7,6 +7,7 @@ const admin = [
     email: "admin@company.com",
   },
 ];
+
 const employees = [
   {
     id: 101,
