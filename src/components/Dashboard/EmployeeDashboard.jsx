@@ -7,7 +7,9 @@ import Newtasks from "../Tasks/Newtasks";
 import { useContext } from "react";
 const EmployeeDashboard = ({ setUser, loggedinUserdata }) => {
   const { userData, setuserData } = useContext(Authcontext);
+  
   // function for updating New Tasks with functionality of accepting or rejecting task
+  
   const updateTaskNew = (taskTitle, status) => {
     const updatedEmployees = userData.employees.map((emp) => {
       if (emp.id == loggedinUserdata.id) {
