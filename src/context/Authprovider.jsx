@@ -29,7 +29,6 @@ export const Authprovider = ({children}) => {
         "admin",
         JSON.stringify(userData.admin)
       );
-        
     }
   }, [userData]);
   
@@ -37,7 +36,7 @@ export const Authprovider = ({children}) => {
     <div>
         <Authcontext.Provider value={{userData,setuserData}}>
         {children}
-        </Authcontext.Provider>
-        </div>
+        </Authcontext.Provider>    
+    </div>
   )
 }
