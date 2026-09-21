@@ -33,6 +33,7 @@ const employees = [
         completedTask: false,
         failedTask: false,
       },
+      
       {
         title: "Fix Navbar",
         description: "Resolve responsive navbar issues.",
@@ -43,6 +44,7 @@ const employees = [
         completedTask: true,
         failedTask: false,
       },
+      
     ],
   },
 
