@@ -24,10 +24,12 @@ export const Authprovider = ({children}) => {
         "employees",
         JSON.stringify(userData.employees)
       );
+        
       localStorage.setItem(
         "admin",
         JSON.stringify(userData.admin)
       );
+        
     }
   }, [userData]);
   
