@@ -18,8 +18,10 @@ const App = () => {
   useEffect(() => {
     if (!userData) return;
     const loggedinUser = JSON.parse(localStorage.getItem("loggedinUser"));
+    
     if (!loggedinUser) return;
     setUser(loggedinUser.role);
+    
     if (loggedinUser.role === "employee") {
       const employee = userData.employees.find((e) => e.id === loggedinUser.id);
       setloggedinUserdata(employee);
