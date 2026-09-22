@@ -48,6 +48,7 @@ const EmployeeDashboard = ({ setUser, loggedinUserdata }) => {
       employees: updatedEmployees,
     });
   };
+  
   // function for accepting task with functionality of completed or failed
   const updateTaskAccepting = (taskTitle, status) => {
     const updatedEmployeesAccepting = userData.employees.map((emp) => {
