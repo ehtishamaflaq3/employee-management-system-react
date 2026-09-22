@@ -8,10 +8,12 @@ import { Authcontext } from "./context/Authprovider";
 const App = () => {
   
   // states
+  
   const [user, setUser] = useState(null);
   const [loggedinUserdata, setloggedinUserdata] = useState(null);
   
   // logged in user logic
+  
   const {userData,setuserData} = useContext(Authcontext);
   useEffect(() => {
     if (!userData) return;
