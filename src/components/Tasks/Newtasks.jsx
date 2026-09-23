@@ -21,7 +21,9 @@ const Newtasks = ({ data ,updateTaskNew}) => {
           </h1>
           <h3 className="text-2xl text-amber-100 underline">{data.date}</h3>
         </div>
+        
         {/* task heading and description */}
+        
         <div className="h-55 flex justify-between flex-col w-full p-3">
           <h1 className="text-white text-2xl font-bold">{data.title}</h1>
           <p className="mt-4 text-amber-100 font-bold ">{data.description}</p>
