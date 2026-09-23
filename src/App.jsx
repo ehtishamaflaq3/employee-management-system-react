@@ -50,6 +50,7 @@ const App = () => {
   };
   
   // this rerender on page reload
+  
   useEffect(() => {
     setLocalStorage();
   }, []);
