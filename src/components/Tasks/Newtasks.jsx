@@ -1,7 +1,9 @@
 import React from "react";
 
 const Newtasks = ({ data ,updateTaskNew}) => {
+  
   // functions
+  
   const updateAccepted=()=>{
     updateTaskNew(data.title,'accepted');
   };
