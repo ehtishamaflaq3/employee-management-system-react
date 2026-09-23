@@ -12,7 +12,6 @@ const App = () => {
   const [loggedinUserdata, setloggedinUserdata] = useState(null);
   
   // logged in user logic
-  
   const {userData,setuserData} = useContext(Authcontext);
   useEffect(() => {
     if (!userData) return;
@@ -27,8 +26,7 @@ const App = () => {
     }
   }, [userData]);
   
-  ////////////////////////////////////////// functions
-  
+  ////////////////////////////////////////// functions/////////////////////////////////
   // login all logic
   const handlelogin = (username, password) => {
     if (username == "admin" && password == "123") {
