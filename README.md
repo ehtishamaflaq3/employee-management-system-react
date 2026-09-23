@@ -1,7 +1,6 @@
 # Employee Management System
 
 A modern Employee Management System built with **React.js**, **Context API**, **Tailwind CSS**, and **Local Storage**.
-
 This project provides a role-based dashboard where an administrator can assign tasks to employees and employees can manage their assigned tasks with real-time UI updates.
 
 # Features
