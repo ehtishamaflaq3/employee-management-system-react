@@ -25,6 +25,7 @@ const EmployeeDashboard = ({ setUser, loggedinUserdata }) => {
           }
           return task;
         });
+        
         return {
           ...emp,
           taskCounts: {
