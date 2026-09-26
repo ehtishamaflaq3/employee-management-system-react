@@ -5,8 +5,9 @@ import Completetasks from "../Tasks/Completetasks";
 import Failedtasks from "../Tasks/Failedtasks";
 import Newtasks from "../Tasks/Newtasks";
 import { useContext } from "react";
-const EmployeeDashboard = ({ setUser, loggedinUserdata }) => {
-  
+
+
+const EmployeeDashboard = ({ setUser, loggedinUserdata }) => {  
   const { userData, setuserData } = useContext(Authcontext);
   
   // function for updating New Tasks with functionality of accepting or rejecting task
