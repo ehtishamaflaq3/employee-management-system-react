@@ -15,9 +15,7 @@ export const Authprovider = ({children}) => {
         const {employees,admin}=getLocalStorage()
         setuserData({employees:employees || [],admin:admin || []})
     },[]);
-    
     // jb bhi data change ho localstorage update ho
-    
     useEffect(() => {
     if (userData.employees.length > 0) {
       localStorage.setItem(
