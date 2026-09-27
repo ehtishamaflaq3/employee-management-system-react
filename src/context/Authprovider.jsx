@@ -10,7 +10,6 @@ export const Authprovider = ({children}) => {
     });
     
     // first time data lena
-    
     useEffect(()=>{
         const {employees,admin}=getLocalStorage()
         setuserData({employees:employees || [],admin:admin || []})
