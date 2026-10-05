@@ -1,7 +1,6 @@
 import React from 'react'
 
 const Accepttasks = ({data,updateTaskAccepting}) => {
-  
   const updateComplete = () => {
     updateTaskAccepting(data.title,'completed');
   };
@@ -26,7 +25,8 @@ const Accepttasks = ({data,updateTaskAccepting}) => {
             <button className='bg-red-500 rounded-2xl text-xl font-bold h-9 active:bg-red-700 w-full cursor-pointer ' onClick={updateFailed}>Failed Task</button>
           </div>
           </div>
-        </div></div>
+        </div>
+    </div>
   )
 }
 export default Accepttasks
