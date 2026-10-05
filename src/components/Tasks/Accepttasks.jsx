@@ -8,6 +8,7 @@ const Accepttasks = ({data,updateTaskAccepting}) => {
   const updateFailed = () => {
     updateTaskAccepting(data.title,'failed');
   };
+  
   return (
     <div><div className='m-3 h-70 flex-nowrap shrink-0 rounded-2xl overflow-hidden bg-red-400 w-80'>
         {/* tasks details card*/}
