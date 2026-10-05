@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Accepttasks = ({data,updateTaskAccepting}) => {
+  
   const updateComplete = () => {
     updateTaskAccepting(data.title,'completed');
   };
