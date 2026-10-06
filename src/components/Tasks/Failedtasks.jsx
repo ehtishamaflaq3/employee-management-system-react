@@ -5,6 +5,7 @@ const Failedtasks = ({data,loggedinUserdata}) => {
   return (
     <div><div className='m-3 h-70 flex-nowrap shrink-0 rounded-2xl justify-between flex flex-col overflow-hidden bg-violet-600 w-80'>
         {/* tasks details card*/}
+      
         {/* top section */}
         <div className='flex items-center justify-between p-5 h-15'>
           <h1 className='bg-red-700 rounded-xl h-10 text-amber-200 text-2xl pl-2 pr-2  '>{data.category}</h1>
