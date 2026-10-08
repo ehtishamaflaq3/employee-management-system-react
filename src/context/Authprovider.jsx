@@ -6,8 +6,7 @@ export const Authcontext=createContext();
 export const Authprovider = ({children}) => {
     const [userData,setuserData]=useState({
       employees:[],
-      admin:[]
-        
+      admin:[]        
     });
     
     // first time data lena
