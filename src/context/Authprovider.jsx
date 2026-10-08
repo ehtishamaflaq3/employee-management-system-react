@@ -7,6 +7,7 @@ export const Authprovider = ({children}) => {
     const [userData,setuserData]=useState({
       employees:[],
       admin:[]
+        
     });
     
     // first time data lena
