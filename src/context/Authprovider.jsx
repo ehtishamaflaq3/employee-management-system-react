@@ -8,26 +8,28 @@ export const Authprovider = ({children}) => {
       employees:[],
       admin:[]        
     });
+    
     // first time data lena
+    
     useEffect(()=>{
         const {employees,admin}=getLocalStorage()
         setuserData({employees:employees || [],admin:admin || []})
     },[]);
+    
     // jb bhi data change ho localstorage update ho
+    
     useEffect(() => {
     if (userData.employees.length > 0) {
       localStorage.setItem(
         "employees",
         JSON.stringify(userData.employees)
       );
-        
       localStorage.setItem(
         "admin",
         JSON.stringify(userData.admin)
       );
     }
   }, [userData]);
-  
     return (
     <div>
         <Authcontext.Provider value={{userData,setuserData}}>
