@@ -1,7 +1,6 @@
 import React from 'react'
 
 const Failedtasks = ({data,loggedinUserdata}) => {
-  
   return (
     <div><div className='m-3 h-70 flex-nowrap shrink-0 rounded-2xl justify-between flex flex-col overflow-hidden bg-violet-600 w-80'>
         {/* tasks details card*/}
