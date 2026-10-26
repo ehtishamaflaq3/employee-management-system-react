@@ -6,7 +6,6 @@ This project provides a role-based dashboard where an administrator can assign t
 # Features
 
 ## Authentication
-
 - Admin Login.
 - Employee Login.
 - Role Based Authentication.
